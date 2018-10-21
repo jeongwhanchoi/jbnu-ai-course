@@ -15,3 +15,7 @@
 * Intro to Perceptron
     * Perceptron [[open dir](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/perceptron)] 
     [[open notebook dir](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/perceptron-notebook)]
+    
+* Intro to ADALINE
+* Logistic Regression
+* Support Vector Machine
