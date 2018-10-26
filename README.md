@@ -17,5 +17,6 @@
 * Intro to ADALINE
     * [ADALINE](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/adaline)
     * [ADALINE Jupyter Notebook](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/adaline-notebook)
-* Logistic Regression
+* [Logistic Regression](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/logistic-regression-notebook)
 * Support Vector Machine
+
