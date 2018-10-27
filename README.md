@@ -18,5 +18,5 @@
     * [ADALINE](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/adaline)
     * [ADALINE Jupyter Notebook](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/adaline-notebook)
 * [Logistic Regression](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/logistic-regression-notebook)
-* Support Vector Machine
+* [Support Vector Machine](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/svm-notebook)
 
