@@ -20,3 +20,4 @@
 * [Logistic Regression](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/logistic-regression-notebook)
 * [Support Vector Machine](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/svm-notebook)
 
+- Random Forest
