@@ -21,3 +21,4 @@
 * [Support Vector Machine](https://github.com/jeongwhanchoi/jbnu-ai-course/tree/master/svm-notebook)
 
 - Random Forest
+- Sentiment Analysis
