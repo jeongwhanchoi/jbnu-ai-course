@@ -4,7 +4,9 @@
 
 ### Department of Software Engineering
 
-**0000104177**, 2nd Semester, 2018, *[Suntae Kim, Associate Professor](https://sites.google.com/site/jipsin08/)* at Chonbuk National University
+- **0000104177**, 2nd Semester, 2018, *[Suntae Kim, Associate Professor](https://sites.google.com/site/jipsin08/)* at Chonbuk National University
+
+- [The Class Resource Repository](https://github.com/stkim123/kr.jbnu.ssel.aiclass)
 
 ## Table of Contents
 
