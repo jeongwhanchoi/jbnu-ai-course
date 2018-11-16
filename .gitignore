@@ -86,3 +86,9 @@ modules.xml
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 plotdregion.cpython-35.pyc
+
+
+### acllmdb ###
+# directory path
+./sentimental-analysis/aclImdb/*
+./sentimental-analysis/aclImdb
